@@ -6,5 +6,8 @@
     "start": "npm i json-server && json-server db.json --static ."
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }

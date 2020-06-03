@@ -1,11 +1,8 @@
-# Título del Proyecto
-
-Ejemplo de un Elemento Web personalizado.
-
+# Ejemplo de un Elemento Web personalizado <lista-canciones-itunes>
 
 ### Pre-requisitos 📋
 
-_Programas que necesitas_
+_Programas que necesitas en tu ordena_
 
 ```
 npm
@@ -16,7 +13,7 @@ cualquier navegador
 
 ### Instalación y ejecución 🔧
 
-_Para probar el repo, ejecutamos desde línea de comandos _
+_Para probar el repo, ejecutamos desde línea de comandos_
 
 ```
 git clone
@@ -31,7 +28,7 @@ _Posteriormente abrir la dirección http://localhost:3000/_
 
 _Mira el código fuente. Está documentado. Sólo hay tres archivos de interés_
 
-* index.html: donde se usa el elemento personalizado <lista-canciones-itunes>
+* index.html: donde se usa el elemento personalizado lista-canciones-itunes
 * main.js: para definir  el elemento y cargar el módulo
 * Itunes.js: La clase HTMLElement donde se desarrolla y define la lógica del elemento
 
