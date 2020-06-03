@@ -1,8 +1,8 @@
-# Ejemplo de un Elemento Web personalizado <lista-canciones-itunes>
+# Ejemplo de un Elemento Web personalizado
 
 ### Pre-requisitos 📋
 
-_Programas que necesitas en tu ordena_
+_Cosas que necesitas_
 
 ```
 npm
@@ -16,7 +16,7 @@ cualquier navegador
 _Para probar el repo, ejecutamos desde línea de comandos_
 
 ```
-git clone
+git clone https://github.com/Valexx55/cwebitunes
 cd cwebitunes
 npm start
 ```
@@ -34,6 +34,6 @@ _Mira el código fuente. Está documentado. Sólo hay tres archivos de interés_
 
 ## Referencias 
 
-Documentación oficial en [Mozilla de Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components).
+Documentación oficial de [Mozilla sobre Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components).
 
 ---
