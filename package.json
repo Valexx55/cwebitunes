@@ -1,0 +1,10 @@
+{
+  "name": "cwebitunes",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npm i json-server && json-server db.json --static ."
+  },
+  "author": "",
+  "license": "ISC"
+}
